@@ -17,19 +17,19 @@ This project utilized security parameters of a fake compamy known as Botium toys
 
 <p align="center">
 Scope, Goals, and Current Assets: <br/>
-<img src="https://i.imgur.com/UT4txK9.png" height="80%" width="80%" alt="Results of a noncredentialed scan"/>
+<img src="https://i.imgur.com/UT4txK9.png" height="80%" width="80%" alt="Scope, Goals, and Current Assets"/>
 <br />
 <br />
 Risk Assessment:  <br/>
-<img src="https://i.imgur.com/NHnp6ea.png" height="80%" width="80%" alt="Credentialed Scan"/>
+<img src="https://i.imgur.com/NHnp6ea.png" height="80%" width="80%" alt="Risk Assessment"/>
 <br />
 <br />
 Controls Assessment Checklist: <br/>
-<img src="https://i.imgur.com/V341Qdz.png" height="80%" width="80%" alt="Indepth Credentialled Scan"/>
+<img src="https://i.imgur.com/V341Qdz.png" height="80%" width="80%" alt="Controls Assessment Checklist"/>
 <br />
 <br />
 Compliance Checklist:  <br/>
-<img src="https://i.imgur.com/VUWVFV4.png" height="80%" width="80%" alt="Remediated install"/>
+<img src="https://i.imgur.com/VUWVFV4.png" height="80%" width="80%" alt="Compliance Checklist"/>
 <br />
 <br />
 
